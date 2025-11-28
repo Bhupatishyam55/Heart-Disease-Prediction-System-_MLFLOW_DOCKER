@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction System – ML Model & FastAPI API
+#  Heart Disease Prediction System – ML Model & FastAPI API
 
 A complete end-to-end machine learning project that predicts the risk of heart disease using clinical patient data.  
 The system includes data preprocessing, ML model training with MLflow tracking, real-time inference via FastAPI, and Docker-based deployment.
